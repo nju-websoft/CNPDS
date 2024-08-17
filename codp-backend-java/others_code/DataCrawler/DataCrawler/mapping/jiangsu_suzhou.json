@@ -1,0 +1,11 @@
+{
+    "创建时间": "publish_time",
+    "提供机构": "department",
+    "资源信息名称": "title",
+    "更新频率": "update_frequency",
+    "描述": "description",
+    "资源类型": "data_formats",
+    "开放属性": "is_open",
+    "联系方式": "telephone",
+    "详情页网址": "url"
+}

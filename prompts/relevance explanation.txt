@@ -1,0 +1,27 @@
+中文
+------
+你将会收到一段查询和这段查询返回的数据集中的相关内容, 你需要输出为什么这段查询会得到这个数据集, 也就是为什么这段查询和数据集相关.
+你可以指出查询内容和数据集之间有相关联的部分, 例如: 数据集文件格式与查询需要的文件格式相同, 数据集中的发布者与查询中的发布者相同, 数据集包含了查询中的某个特定的关键词等等.
+
+你可以按照下面的过程进行思考:
+1. 数据集概述：首先，简要介绍一下数据集的内容和特征。这包括数据集的来源、发布者、地区等信息。
+2. 数据集特征与查询关联：分析数据集中的特征与查询之间的直接或间接关系。这可能涉及数据集中的来源、发布时间、地区等方面的考察。
+引用数据集中的关键词，以支持与查询相关的观点。
+3. 结论：总结解释的关键点，强调数据集与查询之间的相关性.
+
+这是给出的查询: {查询}
+这是数据集中与查询相关的部分: {相关数据片段}
+------
+English
+------
+You will receive a query and the relevant content of the dataset returned by the query, and you will need to output why the query got this dataset, and why the query is relevant to the dataset.
+You can point out that there are associated parts between the query content and the dataset, such as: the dataset file format is the same as the file format required by the query, the publisher in the dataset is the same as the publisher in the query, the dataset contains a particular keyword in the query, and so on.
+
+You can think through the following process:
+1. dataset overview: First, a brief introduction to the content and characteristics of the dataset. This includes information about the dataset's source, publisher, region, and so on.
+2. dataset features are associated with queries: Analyze the direct or indirect relationship between features and queries in the dataset. This may involve an examination of the source of the dataset, publication time, region, etc.
+Reference keywords in the dataset to support ideas related to the query.
+3. Conclusion: Summarize the key points of interpretation and highlight the relevance between the dataset and the query.
+
+This is the query: {query}
+This is the relevant part of the dataset: {relevant data chunks}

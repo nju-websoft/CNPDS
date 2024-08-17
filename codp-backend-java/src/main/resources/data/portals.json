@@ -1,0 +1,875 @@
+{
+    "北京市": {
+        "北京市": {
+            "url": "https://data.beijing.gov.cn/",
+            "name": "北京市公共数据开放平台"
+        }
+    },
+    "天津市": {
+        "天津市": {
+            "url": "https://data.tj.gov.cn/",
+            "name": "天津市信息资源统一开放平台"
+        }
+    },
+    "河北省": {
+        "河北省": {
+            "url": "http://hebdata.hebyun.gov.cn/home",
+            "name": "河北省公共数据开放网"
+        },
+        "石家庄市": {},
+        "唐山市": {},
+        "秦皇岛市": {},
+        "邯郸市": {},
+        "邢台市": {},
+        "保定市": {},
+        "张家口市": {},
+        "承德市": {
+            "url": "https://www.chengde.gov.cn/shuju/web/index",
+            "name": "承德市政府数据开放平台"
+        },
+        "沧州市": {},
+        "廊坊市": {},
+        "衡水市": {}
+    },
+    "山西省": {
+        "山西省": {},
+        "太原市": {},
+        "大同市": {
+            "url": "http://www.dt.gov.cn/Dataopen/index",
+            "name": "大同市公共数据开放平台"
+        },
+        "阳泉市": {},
+        "长治市": {
+            "url": "https://www.changzhi.gov.cn/odweb/index.htm",
+            "name": "长治市公共数据开放平台"
+        },
+        "晋城市": {
+            "url": "http://data.jcgov.gov.cn/mainController.action?goIndex&nav=1",
+            "name": "晋城市公共数据开放网站"
+        },
+        "朔州市": {},
+        "晋中市": {},
+        "运城市": {
+            "url": "https://sjkf.yczhcs.cn/portal/l-zh_CN/index.htm"
+        },
+        "忻州市": {},
+        "临汾市": {},
+        "吕梁市": {}
+    },
+    "内蒙古自治区": {
+        "内蒙古自治区": {
+            "url": "http://www.nmgdata.gov.cn/",
+            "name": "内蒙古自治区公共信息资源开放平台"
+        },
+        "呼和浩特市": {
+            "url": "https://data.huhhot.gov.cn/#/home",
+            "name": "呼和浩特市公共数据开放平台"
+        },
+        "包头市": {},
+        "乌海市": {},
+        "赤峰市": {},
+        "通辽市": {},
+        "鄂尔多斯市": {
+            "url": "http://zwfw.ordos.gov.cn/dataOpen/index.shtml",
+            "name": "鄂尔多斯市数据开放平台"
+        },
+        "呼伦贝尔市": {},
+        "巴彦淖尔市": {},
+        "乌兰察布市": {},
+        "兴安盟": {
+            "url": "http://36.137.79.239:8091/#/home",
+            "name": "兴安盟公共信息资源开放平台"
+        },
+        "锡林郭勒盟": {},
+        "阿拉善盟": {}
+    },
+    "辽宁省": {
+        "辽宁省": {
+            "url": "http://data.ln.gov.cn/",
+            "name": "辽宁省公共数据开放平台"
+        },
+        "沈阳市": {
+            "url": "http://data.shenyang.gov.cn/",
+            "name": "沈阳市政务数据开放平台"
+        },
+        "大连市": {},
+        "鞍山市": {},
+        "抚顺市": {},
+        "本溪市": {},
+        "丹东市": {},
+        "锦州市": {},
+        "营口市": {},
+        "阜新市": {},
+        "辽阳市": {},
+        "盘锦市": {},
+        "铁岭市": {},
+        "朝阳市": {}
+    },
+    "吉林省": {
+        "吉林省": {
+            "url": "http://www.jl.gov.cn/sj/"
+        },
+        "长春市": {},
+        "吉林市": {},
+        "四平市": {},
+        "辽源市": {},
+        "通化市": {},
+        "白山市": {},
+        "松原市": {},
+        "白城市": {},
+        "延边朝鲜族自治州": {}
+    },
+    "黑龙江省": {
+        "黑龙江省": {},
+        "哈尔滨市": {
+            "url": "http://data.harbin.gov.cn/oportal/index",
+            "name": "哈尔滨市公共数据开放平台"
+        },
+        "齐齐哈尔市": {},
+        "鸡西市": {},
+        "鹤岗市": {},
+        "双鸭山市": {},
+        "大庆市": {},
+        "伊春市": {},
+        "佳木斯市": {},
+        "七台河市": {},
+        "牡丹江市": {},
+        "黑河市": {},
+        "绥化市": {},
+        "大兴安岭地区": {}
+    },
+    "上海市": {
+        "上海市": {
+            "url": "https://data.sh.gov.cn/",
+            "name": "上海市公共数据开放平台"
+        }
+    },
+    "江苏省": {
+        "江苏省": {
+            "url": "http://data.jszwfw.gov.cn:8118/extranet/openportal/pages/resource/resourcelist.html",
+            "name": "江苏省公共数据开放平台"
+        },
+        "南京市": {
+            "url": "http://opendata.nanjing.gov.cn/#/main/data",
+            "name": "南京市政务数据开放平台"
+        },
+        "无锡市": {
+            "url": "https://data.wuxi.gov.cn/",
+            "name": "无锡市公共数据开放平台"
+        },
+        "徐州市": {
+            "url": "http://data.gxj.xz.gov.cn/#/Home",
+            "name": "徐州市公共数据开放平台"
+        },
+        "常州市": {
+            "url": "http://opendata.changzhou.gov.cn/",
+            "name": "常州市政府数据开放平台"
+        },
+        "苏州市": {
+            "url": "https://data.suzhou.gov.cn/#/home",
+            "name": "苏州市公共数据开放平台"
+        },
+        "南通市": {
+            "url": "https://data.nantong.gov.cn/home/index.html#/home",
+            "name": "南通市公共数据开放网站"
+        },
+        "连云港市": {
+            "url": "http://www.lyg.gov.cn/data/",
+            "name": "连云港市公共数据开放网"
+        },
+        "淮安市": {
+            "url": "https://opendata.huaian.gov.cn:18443/#/home",
+            "name": "淮安市公共数据开放平台"
+        },
+        "盐城市": {
+            "url": "https://www.yancheng.gov.cn/opendata",
+            "name": "盐城市数据开放平台"
+        },
+        "扬州市": {},
+        "镇江市": {
+            "url": "https://data.zhenjiang.gov.cn/portal/index#/portal/index",
+            "name": "镇江市公共数据开放平台"
+        },
+        "泰州市": {
+            "url": "http://opendata.taizhou.gov.cn/oportal/index",
+            "name": "泰州市公共数据开放平台"
+        },
+        "宿迁市": {
+            "url": "http://data.suqian.gov.cn/sjkfpt.shtml",
+            "name": "宿迁市公共数据开放平台"
+        }
+    },
+    "浙江省": {
+        "浙江省": {
+            "url": "https://data.zjzwfw.gov.cn/jdop_front/index.do",
+            "name": "浙江省人民政府-浙江数据开放"
+        },
+        "杭州市": {
+            "url": "https://data.hangzhou.gov.cn/dop/",
+            "name": "杭州市数据开放平台"
+        },
+        "宁波市": {
+            "url": "http://data.ningbo.gov.cn/nbdata/fore/index.html/#/home?t=1686632441036&id=1",
+            "name": "宁波市数据开放平台"
+        },
+        "温州市": {
+            "url": "http://data.wenzhou.gov.cn/jdop_front/index.do",
+            "name": "温州市数据开放平台"
+        },
+        "嘉兴市": {
+            "url": "https://data.jiaxing.gov.cn/jdop_front/index.do",
+            "name": "嘉兴市公共数据开放平台"
+        },
+        "湖州市": {
+            "url": "http://data.huzhou.gov.cn/home",
+            "name": "湖州市数据开放平台"
+        },
+        "绍兴市": {
+            "url": "https://data.sx.gov.cn/kf/home",
+            "name": "绍兴市公共数据开放平台"
+        },
+        "金华市": {
+            "url": "http://open.data.jinhua.gov.cn/jdop_front/index.do",
+            "name": "金华市数据开放平台"
+        },
+        "衢州市": {
+            "url": "https://data.qz.gov.cn/jdop_front/index.do",
+            "name": "衢州市数据开放平台"
+        },
+        "舟山市": {
+            "url": "http://data.zhoushan.gov.cn/#/Home/Default/Index",
+            "name": "舟山市·公共数据开放平台"
+        },
+        "台州市": {
+            "url": "https://data.zjtz.gov.cn/tz/home",
+            "name": "台州市数据开放平台"
+        },
+        "丽水市": {
+            "url": "http://data.lishui.gov.cn/jdop_front/index.do#",
+            "name": "丽水市公共数据开放平台"
+        }
+    },
+    "安徽省": {
+        "安徽省": {
+            "url": "http://data.ahzwfw.gov.cn:8000/dataopen-web/index.html",
+            "name": "安徽省公共数据开放平台"
+        },
+        "合肥市": {
+            "url": "https://www.hefei.gov.cn/open-data-web/index/index-hfs.do?pageIndex=1",
+            "name": "合肥市人民政府-数据开放"
+        },
+        "芜湖市": {
+            "url": "https://data.wuhu.cn/",
+            "name": "芜湖市政务数据开放服务平台"
+        },
+        "蚌埠市": {
+            "url": "https://www.bengbu.gov.cn/sjkf/index.html",
+            "name": "蚌埠市人民政府-数据开放"
+        },
+        "淮南市": {
+            "url": "https://sjzyj.huainan.gov.cn/odssite/index",
+            "name": "淮南市政府数据开放平台"
+        },
+        "马鞍山市": {},
+        "淮北市": {
+            "url": "http://open.huaibeidata.cn:1123/#/index"
+        },
+        "铜陵市": {},
+        "安庆市": {},
+        "黄山市": {
+            "url": "https://www.huangshan.gov.cn/zfsj/index.html",
+            "name": "黄山市人民政府-政府数据"
+        },
+        "滁州市": {
+            "url": "https://www.chuzhou.gov.cn/data/#/",
+            "name": "滁州市公共数据开放平台"
+        },
+        "阜阳市": {},
+        "宿州市": {
+            "url": "https://www.ahsz.gov.cn/opendata/index",
+            "name": "宿州市公共数据开放门户"
+        },
+        "六安市": {
+            "url": "https://data.luan.gov.cn/",
+            "name": "六安市公共数据开放网"
+        },
+        "亳州市": {
+            "url": "http://60.174.80.67:8098/open-data-web/index/index.do?pageIndex=1",
+            "name": "亳州市政府数据开放平台"
+        },
+        "池州市": {
+            "url": "https://www.chizhou.gov.cn/OpenData/",
+            "name": "池州市人民政府-数据开放"
+        },
+        "宣城市": {}
+    },
+    "福建省": {
+        "福建省": {
+            "url": "https://data.fujian.gov.cn/oportal/index",
+            "name": "福建省公共数据资源统一开放平台"
+        },
+        "福州市": {
+            "url": "http://data.fuzhou.gov.cn/"
+        },
+        "厦门市": {
+            "url": "https://data.xm.gov.cn/opendata/#/",
+            "name": "厦门市大数据安全开放平台"
+        },
+        "莆田市": {},
+        "三明市": {},
+        "泉州市": {},
+        "漳州市": {},
+        "南平市": {},
+        "龙岩市": {},
+        "宁德市": {}
+    },
+    "江西省": {
+        "江西省": {
+            "url": "https://data.jiangxi.gov.cn/",
+            "name": "江西省公共数据开放平台"
+        },
+        "南昌市": {},
+        "景德镇市": {},
+        "萍乡市": {},
+        "九江市": {},
+        "新余市": {},
+        "鹰潭市": {},
+        "赣州市": {
+            "url": "http://zwkf.ganzhou.gov.cn/Index.shtml",
+            "name": "赣州市政府数据开放平台"
+        },
+        "吉安市": {
+            "url": "http://ggfw.jian.gov.cn/",
+            "name": "吉安政务数据开放平台"
+        },
+        "宜春市": {
+            "url": "http://data.yichun.gov.cn/extranet/openportal/pages/resource/resourceDeplist.html",
+            "name": "宜春大数据开放平台"
+        },
+        "抚州市": {
+            "url": "http://data.jxfz.gov.cn/site_opendatafz/node/2.jspx",
+            "name": "抚州市数据开放平台"
+        },
+        "上饶市": {
+            "url": "http://data.zgsr.gov.cn:2003/"
+        }
+    },
+    "山东省": {
+        "山东省": {
+            "url": "https://data.sd.gov.cn/",
+            "name": "山东公共数据开放网"
+        },
+        "济南市": {
+            "url": "http://data.jinan.gov.cn/",
+            "name": "济南公共数据开放网"
+        },
+        "青岛市": {
+            "url": "http://data.qingdao.gov.cn/qingdao/index",
+            "name": "青岛公共数据开放网"
+        },
+        "淄博市": {
+            "url": "http://data.zibo.gov.cn/zibo/index",
+            "name": "青岛公共数据开放网"
+        },
+        "枣庄市": {
+            "url": "http://zzdata.sd.gov.cn/zaozhuang/index",
+            "name": "枣庄公共数据开放网"
+        },
+        "东营市": {
+            "url": "http://data.dongying.gov.cn/dongying/index",
+            "name": "东营公共数据开放网"
+        },
+        "烟台市": {
+            "url": "http://data.yantai.gov.cn/yantai/index",
+            "name": "烟台公共数据开放网"
+        },
+        "潍坊市": {
+            "url": "http://data.weifang.gov.cn/weifang/index",
+            "name": "潍坊公共数据开放网"
+        },
+        "济宁市": {
+            "url": "http://jindata.sd.gov.cn/jining/index",
+            "name": "济宁公共数据开放网"
+        },
+        "泰安市": {
+            "url": "http://tadata.sd.gov.cn/taian/index",
+            "name": "泰安公共数据开放网"
+        },
+        "威海市": {
+            "url": "http://data.weihai.gov.cn/weihai/index",
+            "name": "威海公共数据开放网"
+        },
+        "日照市": {
+            "url": "http://rzdata.sd.gov.cn/rizhao/index",
+            "name": "日照公共数据开放网"
+        },
+        "临沂市": {
+            "url": "http://lydata.sd.gov.cn/linyi/index",
+            "name": "临沂公共数据开放网"
+        },
+        "德州市": {
+            "url": "http://dzdata.sd.gov.cn/dezhou/index",
+            "name": "德州公共数据开放网"
+        },
+        "聊城市": {
+            "url": "http://lcdata.sd.gov.cn/liaocheng/index",
+            "name": "聊城公共数据开放网"
+        },
+        "滨州市": {
+            "url": "http://data.binzhou.gov.cn/binzhou/index",
+            "name": "滨州公共数据开放网"
+        },
+        "菏泽市": {
+            "url": "http://hzdata.sd.gov.cn/heze/index",
+            "name": "菏泽公共数据开放网"
+        }
+    },
+    "河南省": {
+        "河南省": {},
+        "郑州市": {},
+        "开封市": {},
+        "洛阳市": {},
+        "平顶山市": {},
+        "安阳市": {},
+        "鹤壁市": {},
+        "新乡市": {},
+        "焦作市": {},
+        "濮阳市": {},
+        "许昌市": {},
+        "漯河市": {},
+        "三门峡市": {},
+        "南阳市": {},
+        "商丘市": {},
+        "信阳市": {},
+        "周口市": {},
+        "驻马店市": {},
+        "省直辖县级行政区划": {}
+    },
+    "湖北省": {
+        "湖北省": {},
+        "武汉市": {
+            "url": "http://data.wuhan.gov.cn/index.html",
+            "name": "武汉市公共数据开放平台"
+        },
+        "黄石市": {
+            "url": "http://data.huangshi.gov.cn/html/#/",
+            "name": "黄石市数据开放平台"
+        },
+        "十堰市": {},
+        "宜昌市": {
+            "url": "https://data.yichang.gov.cn/kf/home/",
+            "name": "宜昌市公共数据开放平台"
+        },
+        "襄阳市": {},
+        "鄂州市": {
+            "url": "http://www.ezhou.gov.cn/sjkfn/",
+            "name": "鄂州市人民政府数据开放平台"
+        },
+        "荆门市": {},
+        "孝感市": {},
+        "荆州市": {
+            "url": "http://data.jingzhou.gov.cn:10097/oportal/index",
+            "name": "荆州市公共数据开放平台"
+        },
+        "黄冈市": {},
+        "咸宁市": {
+            "url": "http://www.xianning.gov.cn/data/",
+            "name": "咸宁市人民政府门户网站-数据开放"
+        },
+        "随州市": {
+            "url": "http://www.suizhou.gov.cn/data/",
+            "name": "随州市公共数据开放平台"
+        },
+        "恩施土家族苗族自治州": {},
+        "省直辖县级行政区划": {}
+    },
+    "湖南省": {
+        "湖南省": {},
+        "长沙市": {},
+        "株洲市": {},
+        "湘潭市": {},
+        "衡阳市": {},
+        "邵阳市": {},
+        "岳阳市": {
+            "url": "https://www.yueyang.gov.cn/webapp/yydsj/index.jsp",
+            "name": "岳阳市人民政府-数据开放"
+        },
+        "常德市": {
+            "url": "http://dataopen.changde.gov.cn/list?domain=ZYHJ",
+            "name": "中国常德-数据开放"
+        },
+        "张家界市": {},
+        "益阳市": {
+            "url": "http://www.yiyang.gov.cn/webapp/yiyang2019/dataPublic/index.jsp",
+            "name": "益阳市人民政府-政府数据-数据开放"
+        },
+        "郴州市": {
+            "url": "https://www.czs.gov.cn/webapp/czs/dataPublic/index.jsp",
+            "name": "郴州市人民政府-数据开放"
+        },
+        "永州市": {},
+        "怀化市": {},
+        "娄底市": {},
+        "湘西土家族苗族自治州": {}
+    },
+    "广东省": {
+        "广东省": {
+            "url": "https://gddata.gd.gov.cn/index",
+            "name": "“开放广东”全省政府数据统一开放平台"
+        },
+        "广州市": {
+            "url": "https://data.gz.gov.cn/home.html",
+            "name": "广州市公共数据开放平台"
+        },
+        "韶关市": {},
+        "深圳市": {
+            "url": "https://opendata.sz.gov.cn/",
+            "name": "深圳市政府数据开放平台"
+        },
+        "珠海市": {},
+        "汕头市": {},
+        "佛山市": {},
+        "江门市": {},
+        "湛江市": {},
+        "茂名市": {},
+        "肇庆市": {},
+        "惠州市": {},
+        "梅州市": {},
+        "汕尾市": {},
+        "河源市": {},
+        "阳江市": {},
+        "清远市": {},
+        "东莞市": {},
+        "中山市": {
+            "url": "https://opendata.sz.gov.cn/"
+        },
+        "潮州市": {},
+        "揭阳市": {},
+        "云浮市": {}
+    },
+    "广西壮族自治区": {
+        "广西壮族自治区": {
+            "url": "https://data.gxzf.gov.cn/",
+            "name": "广西壮族自治区公共数据开放平台"
+        },
+        "南宁市": {
+            "url": "https://nn.data.gxzf.gov.cn/",
+            "name": "南宁公共数据开放平台"
+        },
+        "柳州市": {
+            "url": "https://lz.data.gxzf.gov.cn/",
+            "name": "柳州公共数据开放平台"
+        },
+        "桂林市": {
+            "url": "https://gl.data.gxzf.gov.cn/",
+            "name": "桂林公共数据开放平台"
+        },
+        "梧州市": {
+            "url": "https://wz.data.gxzf.gov.cn/",
+            "name": "梧州公共数据开放平台"
+        },
+        "北海市": {
+            "url": "https://bh.data.gxzf.gov.cn/",
+            "name": "北海公共数据开放平台"
+        },
+        "防城港市": {
+            "url": "https://fcg.data.gxzf.gov.cn/",
+            "name": "防城港公共数据开放平台"
+        },
+        "钦州市": {
+            "url": "https://qz.data.gxzf.gov.cn/",
+            "name": "钦州公共数据开放平台"
+        },
+        "贵港市": {
+            "url": "https://gg.data.gxzf.gov.cn/",
+            "name": "贵港公共数据开放平台"
+        },
+        "玉林市": {
+            "url": "https://yl.data.gxzf.gov.cn/",
+            "name": "玉林公共数据开放平台"
+        },
+        "百色市": {
+            "url": "https://bs.data.gxzf.gov.cn/",
+            "name": "百色公共数据开放平台"
+        },
+        "贺州市": {
+            "url": "https://hz.data.gxzf.gov.cn/",
+            "name": "贺州公共数据开放平台"
+        },
+        "河池市": {
+            "url": "https://hc.data.gxzf.gov.cn/",
+            "name": "河池公共数据开放平台"
+        },
+        "来宾市": {
+            "url": "https://lb.data.gxzf.gov.cn/",
+            "name": "来宾公共数据开放平台"
+        },
+        "崇左市": {
+            "url": "https://cz.data.gxzf.gov.cn/",
+            "name": "崇左公共数据开放平台"
+        }
+    },
+    "海南省": {
+        "海南省": {
+            "url": "https://data.hainan.gov.cn/",
+            "name": "海南省政府数据统一开放平台"
+        },
+        "海口市": {},
+        "三亚市": {},
+        "三沙市": {},
+        "儋州市": {},
+        "省直辖县级行政区划": {}
+    },
+    "重庆市": {
+        "重庆市": {
+            "url": "https://data.cq.gov.cn/rop/home",
+            "name": "重庆市公共数据开放系统"
+        }
+    },
+    "四川省": {
+        "四川省": {
+            "url": "https://www.scdata.net.cn/oportal/index",
+            "name": "四川公共数据开放网"
+        },
+        "成都市": {
+            "url": "http://data.chengdu.gov.cn/oportal/index",
+            "name": "成都市公共数据开放平台"
+        },
+        "自贡市": {
+            "url": "https://data.zg.cn/snww/index.html",
+            "name": "自贡市政务信息资源开放门户网站"
+        },
+        "攀枝花市": {
+            "url": "http://data.pzhszwfw.com/oportal/index?_userLoginType=1",
+            "name": "攀枝花市公共数据开放网站"
+        },
+        "泸州市": {
+            "url": "https://data.luzhou.cn/portal/index",
+            "name": "泸州市数据开放平台"
+        },
+        "德阳市": {
+            "url": "https://www.dysdsj.cn/#/Home",
+            "name": "德阳市公共数据开放平台"
+        },
+        "绵阳市": {
+            "url": "http://data.mianyang.cn/",
+            "name": "绵阳市公共数据开放平台"
+        },
+        "广元市": {
+            "url": "http://data.cngy.gov.cn/open/index.html",
+            "name": "广元公共数据开放网"
+        },
+        "遂宁市": {
+            "url": "https://www.suining.gov.cn/data#/Home",
+            "name": "遂宁市公共数据开放平台"
+        },
+        "内江市": {
+            "url": "https://www.neijiang.gov.cn/neiJiangPublicData/homePage",
+            "name": "内江市公共数据开放平台"
+        },
+        "乐山市": {
+            "url": "https://www.leshan.gov.cn/data/#/home",
+            "name": "乐山市数据开放门户"
+        },
+        "南充市": {
+            "url": "https://www.nanchong.gov.cn/data/index/index.html",
+            "name": "南充市公共数据开放平台"
+        },
+        "眉山市": {
+            "url": "http://data.ms.gov.cn/portal/index",
+            "name": "眉山市公共数据开放网"
+        },
+        "宜宾市": {
+            "url": "http://data.jjhxxhj.yibin.gov.cn/oportal/index",
+            "name": "宜宾市公共数据开放平台"
+        },
+        "广安市": {},
+        "达州市": {
+            "url": "http://dazhoudata.cn/oportal/index",
+            "name": "达州市公共数据开放平台"
+        },
+        "雅安市": {
+            "url": "https://www.yaandata.com/",
+            "name": "雅安市数据开放平台"
+        },
+        "巴中市": {
+            "url": "https://www.bzgongxiang.com/#/home",
+            "name": "巴中市政务信息资源开放网站"
+        },
+        "资阳市": {},
+        "阿坝藏族羌族自治州": {
+            "url": "http://abadata.cn/",
+            "name": "阿坝州公共数据开放平台"
+        },
+        "甘孜藏族自治州": {
+            "url": "http://182.132.59.11:11180/dexchange/open/#/Home"
+        },
+        "凉山彝族自治州": {
+            "url": "http://data.lsz.gov.cn/oportal/index"
+        }
+    },
+    "贵州省": {
+        "贵州省": {
+            "url": "http://data.guizhou.gov.cn/home",
+            "name": "贵州省政府数据开放平台"
+        },
+        "贵阳市": {
+            "url": "http://data.guizhou.gov.cn/guiyang/home",
+            "name": "贵阳市政府数据开放平台"
+        },
+        "六盘水市": {
+            "url": "http://data.guizhou.gov.cn/liupanshui/home",
+            "name": "六盘水市政府数据开放平台"
+        },
+        "遵义市": {
+            "url": "http://data.guizhou.gov.cn/zunyi/home",
+            "name": "遵义市政府数据开放平台"
+        },
+        "安顺市": {
+            "url": "http://data.guizhou.gov.cn/anshun/home",
+            "name": "安顺市政府数据开放平台"
+        },
+        "毕节市": {
+            "url": "http://data.guizhou.gov.cn/bijie/home",
+            "name": "毕节市政府数据开放平台"
+        },
+        "铜仁市": {
+            "url": "http://data.guizhou.gov.cn/tongren/home",
+            "name": "铜仁市政府数据开放平台"
+        },
+        "黔西南布依族苗族自治州": {
+            "url": "http://data.guizhou.gov.cn/qianxinanzhou/home",
+            "name": "黔西南州政府数据开放平台"
+        },
+        "黔东南苗族侗族自治州": {
+            "url": "http://data.guizhou.gov.cn/qiandongnanzhou/home",
+            "name": "黔东南州政府数据开放平台"
+        },
+        "黔南布依族苗族自治州": {
+            "url": "http://data.guizhou.gov.cn/qiannanzhou/home",
+            "name": "黔南州政府数据开放平台"
+        }
+    },
+    "云南省": {
+        "云南省": {},
+        "昆明市": {},
+        "曲靖市": {},
+        "玉溪市": {},
+        "保山市": {},
+        "昭通市": {},
+        "丽江市": {},
+        "普洱市": {},
+        "临沧市": {},
+        "楚雄彝族自治州": {},
+        "红河哈尼族彝族自治州": {},
+        "文山壮族苗族自治州": {},
+        "西双版纳傣族自治州": {},
+        "大理白族自治州": {},
+        "德宏傣族景颇族自治州": {},
+        "怒江傈僳族自治州": {},
+        "迪庆藏族自治州": {}
+    },
+    "西藏自治区": {
+        "西藏自治区": {},
+        "拉萨市": {},
+        "日喀则市": {},
+        "昌都市": {},
+        "林芝市": {},
+        "山南市": {},
+        "那曲市": {},
+        "阿里地区": {}
+    },
+    "陕西省": {
+        "陕西省": {
+            "url": "http://www.sndata.gov.cn/"
+        },
+        "西安市": {},
+        "铜川市": {},
+        "宝鸡市": {},
+        "咸阳市": {},
+        "渭南市": {},
+        "延安市": {},
+        "汉中市": {},
+        "榆林市": {},
+        "安康市": {},
+        "商洛市": {}
+    },
+    "甘肃省": {
+        "甘肃省": {},
+        "兰州市": {},
+        "嘉峪关市": {},
+        "金昌市": {},
+        "白银市": {},
+        "天水市": {},
+        "武威市": {},
+        "张掖市": {},
+        "平凉市": {},
+        "酒泉市": {},
+        "庆阳市": {},
+        "定西市": {},
+        "陇南市": {},
+        "临夏回族自治州": {},
+        "甘南藏族自治州": {}
+    },
+    "青海省": {
+        "青海省": {},
+        "西宁市": {},
+        "海东市": {},
+        "海北藏族自治州": {},
+        "黄南藏族自治州": {},
+        "海南藏族自治州": {},
+        "果洛藏族自治州": {},
+        "玉树藏族自治州": {},
+        "海西蒙古族藏族自治州": {}
+    },
+    "宁夏回族自治区": {
+        "宁夏回族自治区": {
+            "url": "https://opendata.nx.gov.cn/portal/index",
+            "name": "宁夏公共数据开放平台"
+        },
+        "银川市": {
+            "url": "http://data.yinchuan.gov.cn/odweb/",
+            "name": "银川市城市数据开放平台"
+        },
+        "石嘴山市": {},
+        "吴忠市": {},
+        "固原市": {},
+        "中卫市": {}
+    },
+    "新疆维吾尔自治区": {
+        "新疆维吾尔自治区": {},
+        "乌鲁木齐市": {
+            "url": "http://zwgl.wlmq.gov.cn/",
+            "name": "乌鲁木齐市政务数据开放网"
+        },
+        "克拉玛依市": {},
+        "吐鲁番市": {},
+        "哈密市": {},
+        "昌吉回族自治州": {},
+        "博尔塔拉蒙古自治州": {},
+        "巴音郭楞蒙古自治州": {},
+        "阿克苏地区": {},
+        "克孜勒苏柯尔克孜自治州": {},
+        "喀什地区": {},
+        "和田地区": {},
+        "伊犁哈萨克自治州": {},
+        "塔城地区": {},
+        "阿勒泰地区": {},
+        "自治区直辖县级行政区划": {}
+    },
+    "香港特别行政区": {
+        "香港特别行政区": {
+            "url": "https://data.gov.hk/sc/"
+        }
+    },
+    "澳门特别行政区": {
+        "澳门特别行政区": {
+            "url": "https://data.gov.mo/"
+        }
+    },
+    "台湾省": {
+        "台湾省": {
+            "url": "https://data.gov.tw/"
+        }
+    }
+}

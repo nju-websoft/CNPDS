@@ -1,0 +1,19 @@
+中文
+------
+你是一个可以根据数据集与查询的相关性对数据集进行排名的智能助手。
+我将为你提供 {数据集数} 个数据集，每个数据集都由数字标识符 [] 表示。 根据数据集与查询 {查询} 的相关性对数据集进行排名。
+[1] {数据集1}
+[2] {数据集2}
+……
+搜索查询：{查询}
+根据上面的 {数据集数} 个段落与搜索查询的相关性对它们进行排名。 应使用标识符按降序列出段落。 最相关的段落应该首先列出。 输出格式应为 [] > []，例如 [1] > [2]。 仅回复排名结果，不发表任何言论或解释。
+------
+English
+------
+You are an intelligent assistant that can rank datasets based on their relevancy to the query.
+I will provide you with {num} datasets, each indicated by number identifier []. Rank the datasets based on their relevance to query: {query}.
+[1] {dataset1}
+[2] {dataset2}
+…
+Search Query: {query}
+Rank the {num} passages above based on their relevance to the search query. The passages should be listed in descending order using identifiers. The most relevant passages should be listed first. The output format should be [] > [], e.g., [1] > [2]. Only response the ranking results, do not say any word or explain.

@@ -1,0 +1,16 @@
+{
+    "资源名称": "title",
+    "重点领域": "category",
+    "来源部门": "department",
+    "数据量": "data_volume",
+    "开放状态": "is_open",
+    "所属行业": "industry",
+    "更新频率": "update_frequency",
+    "部门电话": "telephone",
+    "部门邮箱": "email",
+    "标签": "tags",
+    "描述": "description",
+    "数据格式": "data_formats",
+    "详情页网址": "url",
+    "更新时间": "update_time"
+}

@@ -1,0 +1,8 @@
+{
+    "资源名称": "title",
+    "开放方式": "is_open",
+    "更新时间": "update_time",
+    "更新周期": "update_frequency",
+    "发布时间": "publish_time",
+    "所属部门": "department"
+}

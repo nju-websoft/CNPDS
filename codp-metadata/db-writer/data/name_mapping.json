@@ -1,0 +1,192 @@
+{
+    "guangdong": {
+        "guangzhou": "广州市",
+        "zhongshan": "中山市",
+        "guangdong": "广东省",
+        "shenzhen": "深圳市"
+    },
+    "zhejiang": {
+        "quzhou": "衢州市",
+        "zhoushan": "舟山市",
+        "lishui": "丽水市",
+        "ningbo": "宁波市",
+        "wenzhou": "温州市",
+        "shaoxing": "绍兴市",
+        "jiaxing": "嘉兴市",
+        "taizhou": "台州市",
+        "jinhua": "金华市",
+        "zhejiang": "浙江省",
+        "hangzhou": "杭州市"
+    },
+    "sichuan": {
+        "yaan": "雅安市",
+        "sichuan": "四川省",
+        "panzhihua": "攀枝花市",
+        "chengdu": "成都市",
+        "zigong": "自贡市",
+        "suining": "遂宁市",
+        "meishan": "眉山市",
+        "neijiang": "内江市",
+        "aba": "阿坝藏族羌族自治州",
+        "ganzi": "甘孜藏族自治州",
+        "luzhou": "泸州市",
+        "mianyang": "绵阳市",
+        "nanchong": "南充市",
+        "guangyuan": "广元市",
+        "bazhong": "巴中市",
+        "yibin": "宜宾市",
+        "deyang": "德阳市",
+        "leshan": "乐山市",
+        "dazhou": "达州市"
+    },
+    "shandong": {
+        "jinan": "济南市",
+        "zibo": "淄博市",
+        "linyi": "临沂市",
+        "liaocheng": "聊城市",
+        "dezhou": "德州市",
+        "qingdao": "青岛市",
+        "shandong": "山东省",
+        "weihai": "威海市",
+        "weifang": "潍坊市",
+        "yantai": "烟台市",
+        "rizhao": "日照市",
+        "heze": "菏泽市",
+        "jining": "济宁市",
+        "taian": "泰安市",
+        "zaozhuang": "枣庄市",
+        "dongying": "东营市",
+        "binzhou": "滨州市"
+    },
+    "anhui": {
+        "suzhou": "宿州市",
+        "wuhu": "芜湖市",
+        "huangshan": "黄山市",
+        "anhui": "安徽省",
+        "huaibei": "淮北市",
+        "chuzhou": "滁州市",
+        "chizhou": "池州市",
+        "bengbu": "蚌埠市",
+        "luan": "六安市",
+        "huainan": "淮南市",
+        "hefei": "合肥市"
+    },
+    "jiangsu": {
+        "zhenjiang": "镇江市",
+        "xuzhou": "徐州市",
+        "suqian": "宿迁市",
+        "huaian": "淮安市",
+        "lianyungang": "连云港市",
+        "nantong": "南通市",
+        "jiangsu": "江苏省",
+        "suzhou": "苏州市",
+        "yancheng": "盐城市",
+        "taizhou": "泰州市",
+        "wuxi": "无锡市"
+    },
+    "hubei": {
+        "huangshi": "黄石市",
+        "xianning": "咸宁市",
+        "jingzhou": "荆州市",
+        "ezhou": "鄂州市",
+        "yichang": "宜昌市",
+        "suizhou": "随州市",
+        "wuhan": "武汉市",
+        "hubei": "湖北省"
+    },
+    "guangxi": {
+        "liuzhou": "柳州市",
+        "wuzhou": "梧州市",
+        "baise": "百色市",
+        "beihai": "北海市",
+        "hezhou": "贺州市",
+        "qinzhou": "钦州市",
+        "hechi": "河池市",
+        "guangxi": "广西壮族自治区",
+        "fangchenggang": "防城港市",
+        "yulin": "玉林市",
+        "laibin": "来宾市",
+        "guilin": "桂林市",
+        "nanning": "南宁市",
+        "guigang": "贵港市",
+        "chongzuo": "崇左市"
+    },
+    "tianjin": {
+        "tianjin": "天津市"
+    },
+    "shaanxi": {
+        "shaanxi": "陕西省"
+    },
+    "hunan": {
+        "yueyang": "岳阳市",
+        "chenzhou": "郴州市",
+        "changde": "常德市",
+        "yiyang": "益阳市",
+        "hunan": "湖南省"
+    },
+    "beijing": {
+        "beijing": "北京市"
+    },
+    "guizhou": {
+        "zunyi": "遵义市",
+        "qianxinan": "黔西南布依族苗族自治州",
+        "anshun": "安顺市",
+        "qiandongnan": "黔东南苗族侗族自治州",
+        "guiyang": "贵阳市",
+        "tongren": "铜仁市",
+        "qiannan": "黔南布依族苗族自治州",
+        "guizhou": "贵州省",
+        "bijie": "毕节市",
+        "liupanshui": "六盘水市",
+        "guianxinqu": "贵安新区"
+    },
+    "fujian": {
+        "fujian": "福建省",
+        "xiamen": "厦门市",
+        "fuzhou": "福州市"
+    },
+    "shanghai": {
+        "shanghai": "上海市"
+    },
+    "jiangxi": {
+        "jiangxi": "江西省"
+    },
+    "xinjiang": {
+        "wulumuqi": "乌鲁木齐市",
+        "xinjiang": "新疆维吾尔自治区"
+    },
+    "hainan": {
+        "hainan": "海南省",
+        "hainansjj": "海南省",
+        "hainansjjk": "海南省"
+    },
+    "shanxi": {
+        "changzhi": "长治市",
+        "jincheng": "晋城市",
+        "datong": "大同市",
+        "yuncheng": "运城市",
+        "shanxi": "山西省"
+    },
+    "neimenggu": {
+        "xinganmeng": "兴安盟",
+        "neimenggu": "内蒙古自治区"
+    },
+    "chongqing": {
+        "chongqing": "重庆市"
+    },
+    "liaoning": {
+        "liaoning": "辽宁省",
+        "shenyang": "沈阳市"
+    },
+    "hebei": {
+        "hebei": "河北省"
+    },
+    "ningxia": {
+        "yinchuan": "银川市",
+        "ningxia": "宁夏回族自治区"
+    },
+    "heilongjiang": {
+        "harbin": "哈尔滨市",
+        "heilongjiang": "黑龙江省"
+    }
+}

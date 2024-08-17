@@ -1,0 +1,16 @@
+{
+    "resourceName": "title",
+    "dataSource": "department",
+    "industryCategory": "category",
+    "publishTime": "publish_time",
+    "updateTime": "update_time",
+    "openType": "is_open",
+    "dataVolume": "data_volume",
+    "industryField": "industry",
+    "dataUpdatePeriod": "update_frequency",
+    "departmentContactTel": "telephone",
+    "email": "email",
+    "remark": "description",
+    "resourceType": "data_formats",
+    "详情页网址": "url"
+}

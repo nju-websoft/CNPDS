@@ -1,0 +1,12 @@
+{
+  "资源格式": "data_formats",
+  "发布时间": "publish_time",
+  "联系方式": "telephone",
+  "数据领域": "category",
+  "数据量": "data_volume",
+  "标签": "tags",
+  "开放条件": "is_open",
+  "资源名称": "title",
+  "更新周期": "update_frequency",
+  "更新时间": "update_time"
+}

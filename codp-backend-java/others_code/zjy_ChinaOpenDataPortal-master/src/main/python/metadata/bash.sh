@@ -1,0 +1,1 @@
+python .\src\main\python\metadata\main.py

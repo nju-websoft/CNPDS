@@ -1,0 +1,33 @@
+中文
+------
+你需要承担一个数据对齐的任务，根据异构的元数据生成一个统一的格式模板。
+你将获得两条JSON格式的元数据记录。你的任务是将这两条记录进行格式对齐，以便字段名称和值能够匹配。
+对齐过程中，请按照以下规则操作：
+1. 如果两条记录中有功能相似的字段，请合并这些字段，并选择一个更合适的字段名称。 
+2. 如果一个字段在另一条记录中不存在，你需要判断这一字段是否有必要保留，如果有，请保留这个字段名称。 
+下面给出评价标准，你需要确保最终结果：
+1. 不包含功能完全相同的字段，如“详情页网址”，“数据网址”，“url”这种多个用于描述链接的字段、“描述”与“摘要”等描述数据集内容特征的字段等。请你仔细甄别是否真的有必要进行合并。如果两个字段的描述不完全是一样的，请不要指出，例如“标题”和“摘要信息”；“发布时间”和“更新时间”等。 
+2. 包含了原有两条数据中的字段功能，如“标题”、“摘要”、“发布时间”、“开放类型”等。同时你需要考察每一条字段的必要性。 
+3. 是对于所有的数据集通用的。你不应当保留任何特定于某一条数据集的字段。 
+4. 对于处理后的字段内容（：后面的值），应当有且仅有一个你生成的一段字段描述，即这个字段的功能是什么（如：“标题”的字段值可以描述为：“该字段是数据集的标题名称”）。请注意，你不应当保留任何原始元数据中的详细内容。 
+5. 对于4中要求的详细说明：你给出的字段描述应当是一个简短的描述，不应当包含任何具体的数据集内容。请确保每一个字段的描述都符合这一要求。
+请将以下两条元数据进行格式对齐： 
+元数据1：{元数据1} 
+元数据2：{元数据2}
+------
+English
+------
+You need to undertake a data alignment task to generate a unified format template based on heterogeneous metadata.
+You will get two metadata records in JSON format. Your task is to align the format of these two records so that the field names and values ​​can match.
+During the alignment process, please follow the following rules:
+1. If there are fields with similar functions in the two records, merge these fields and choose a more appropriate field name.
+2. If a field does not exist in the other record, you need to determine whether it is necessary to retain this field. If so, please retain this field name.
+The evaluation criteria are given below, and you need to ensure the final result:
+1. Do not contain fields with exactly the same functions, such as "details page URL", "data URL", "url" and other fields used to describe links, "description" and "summary" and other fields that describe the content characteristics of the dataset. Please carefully identify whether it is really necessary to merge. If the descriptions of the two fields are not exactly the same, please do not point it out, such as "title" and "summary information"; "publishing time" and "updated time", etc.
+2. Include the field functions of the original two data, such as "title", "abstract", "release time", "open type", etc. At the same time, you need to examine the necessity of each field.
+3. It is common to all datasets. You should not keep any fields specific to a certain dataset.
+4. For the processed field content (the value after :), there should be one and only one field description you generated, that is, what the function of this field is (such as: The field value of "title" can be described as: "This field is the title name of the dataset"). Please note that you should not keep any detailed content in the original metadata.
+5. For the detailed explanation required in 4: The field description you give should be a brief description and should not contain any specific dataset content. Please make sure that the description of each field meets this requirement.
+Please align the following two metadata formats:
+Metadata 1: {metadata 1}
+Metadata 2: {metadata 2}

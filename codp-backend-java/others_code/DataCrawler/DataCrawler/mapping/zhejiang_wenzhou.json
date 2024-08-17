@@ -1,0 +1,16 @@
+{
+  "标题": "title",
+  "摘要": "description",
+  "标签": "tags",
+  "更新周期": "update_frequency",
+  "资源格式": "data_formats",
+  "数源单位": "department",
+  "联系方式": "telephone",
+  "数据领域": "category",
+  "行业分类": "industry",
+  "开放条件": "is_open",
+  "更新日期": "update_time",
+  "发布日期": "publish_time",
+  "数据条数": "data_volume",
+  "详情页网址": "url"
+}

@@ -1,0 +1,15 @@
+{ 
+    "资源标题": "title",
+    "来源部门": "department",
+    "数据量": "data_volume",
+    "联系电话": "telephone",
+    "邮箱地址": "email",
+    "所属主题": "category",
+    "更新频率": "update_frequency",
+    "资源发布/更新时间": "update_time",
+    "条件开放": "is_open",
+    "标签": "tags",
+    "简介": "description",
+    "数据格式": "data_formats",
+    "详情页网址": "url"
+}

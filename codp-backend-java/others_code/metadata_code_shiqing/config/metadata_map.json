@@ -1,0 +1,22 @@
+{
+    "beijing": [
+        "beijing"
+    ],
+    "tianjin": [
+        "tianjin"
+    ],
+    "hebei": [
+        "hebei"
+    ],
+    "shanxi": [
+        "datong",
+        "changzhi",
+        "jincheng",
+        "yuncheng"
+    ],
+    "neimenggu": [
+        "neimenggu",
+        "xinganmeng"
+    ],
+    "shandong": {}
+}

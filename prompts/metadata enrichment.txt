@@ -1,0 +1,29 @@
+中文
+------
+你的任务是接受一个数据集的元数据和部分数据文件内容, 然后给出对这个数据集的总结.
+注意区别数据集本身和其元数据的不同, 不要将元数据的字段当作数据集中的内容.
+
+你给出的数据集总结需要包括:
+1. 对数据集主题的描述, 可以是对标题和数据文件内容的概括;
+2. 数据格式和数据项名称;
+3. 数据来源以及发布者信息;
+4. 对数据文件的描述, 比如数据条目数, 更新日期等;
+5. 数据集可能的用途, 可以从多个角度切入.
+前四点中如果无法总结出真实信息可以留空, 不要包含虚假信息.
+
+这是数据集内容中相关的部分: {相关数据片段}
+------
+English
+------
+Here is your task: accept the metadata and partial data file contents of a dataset, and then give a summary of the dataset.
+Pay attention to the difference between the dataset itself and its metadata, and do not treat the fields of metadata as the contents of the dataset.
+
+The dataset summary you give should include:
+1. A description of the subject of the dataset, which can be a summary of the title and data file content;
+2. Data format and data item name;
+3. Data source and publisher information;
+4. Description of the data file, such as the number of data items, update date, etc.;
+5. The possible uses of the dataset can be explored from multiple angles.
+Leave the first four points blank if you can't summarize the true information. Do not include false information.
+
+This is the relevant part of the dataset: {relevant data chunks}

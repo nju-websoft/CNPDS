@@ -1,0 +1,17 @@
+[
+    {
+        "title": "系统更新",
+        "detail": "切换元数据为 2023/11/28 爬取的版本，接入大语言模型辅助数据集搜索。",
+        "date": "2024.06.17"
+    },
+    {
+        "title": "论文接收",
+        "detail": "系统论文 Dataset Search over Integrated Metadata from China's Public Data Open Platforms 被CCF BigData 2023接收。",
+        "date": "2023.08.16"
+    },
+    {
+        "title": "系统上线",
+        "detail": "全国公共数据一站式搜索系统上线，接入124个公共数据开放平台。",
+        "date": "2023.07.29"
+    }
+]

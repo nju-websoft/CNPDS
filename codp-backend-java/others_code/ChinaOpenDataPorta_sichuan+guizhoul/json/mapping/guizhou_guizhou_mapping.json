@@ -1,0 +1,13 @@
+{
+    "标题": "title",
+    "数据摘要": "description",
+    "主题名称": "category",
+    "数据提供方": "department",
+    "所属行业": "industry",
+    "更新时间": "update_time",
+    "发布时间": "publish_time",
+    "开放属性": "is_open",
+    "更新频率": "update_frequency",
+    "数据格式": "data_formats",
+    "详情页网址": "url"
+}

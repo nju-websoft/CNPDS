@@ -1,0 +1,17 @@
+{
+    "subjectBaseName": "title",
+    "orgName": "department",
+    "fieldName": "category",
+    "releaseTime": "publish_time",
+    "updateTime": "update_time",
+    "openTypeName": "is_open",
+    "dataNumSum": "data_volume",
+    "industry": "industry",
+    "frequency": "update_frequency",
+    "orgPhone": "telephone",
+    "orgEmail": "email",
+    "label": "tags",
+    "tableRemark": "description",
+    "resourceType": "data_formats",
+    "详情页网址": "url"
+}

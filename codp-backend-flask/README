@@ -1,0 +1,36 @@
+API:
+
+RERANK API:
+
+    Receive: JSON with "hits" and "query", each 'hit' with
+
+        qid     : ?int
+        docid   : !string
+        datasetid: !string
+        content : !string
+        score   : !int|float
+    
+    Return: Same as Receive
+
+EXPLAIN API:
+
+    Receive: JSON with "query" and "metadata" all with type 'str'
+    Return: 'str' as explanation
+
+ENV:
+
+    LLM_API_MODEL: LLM model name
+    LLM_API_BASE: LLM API base
+    LLM_API_KEYS: API keys separated by ','
+
+    RERANK_WINDOW_SIZE: Metadata number rerank will do rerank
+    RERANK_STEP_SIZE: Times reranker will do rerank
+
+    CACHE_DIR: Flask Cache saving path
+    CACHE_TIMEOUT: Flask Cache timeout
+
+    DB_HOST, DB_PORT, DB_USER, DB_PSWD, DB_NAME: MySQL connection info
+
+    TB_DESCRIPTIONS: Table name for descriptions
+    TB_DESCRIPTIONS_ID: Column name for dataset id
+    TB_DESCRIPTIONS_DESC: Column name for enhanced descriptions

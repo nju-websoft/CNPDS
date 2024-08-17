@@ -1,0 +1,14 @@
+{
+  "标题": "title",
+  "摘要": "description",
+  "资源标签": "tags",
+  "发布日期": "publish_time",
+  "更新日期": "update_time",
+  "数据领域": "category",
+  "数源单位": "department",
+  "开放条件": "is_open",
+  "数据量": "data_volume",
+  "联系方式": "telephone",
+  "更新周期": "update_frequency",
+  "详情页网址": "url"
+}

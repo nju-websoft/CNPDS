@@ -1,0 +1,13 @@
+{
+    "资源名称": "title",
+    "发布部门": "department",
+    "摘要": "description",
+    "发布时间": "publish_time",
+    "更新时间": "update_time",
+    "更新周期": "update_frequency",
+    "开放等级": "is_open",
+    "联系电话": "telephone",
+    "数据量": "data_volume",
+    "详情页网址": "url",
+    "数据格式": "data_formats"
+}

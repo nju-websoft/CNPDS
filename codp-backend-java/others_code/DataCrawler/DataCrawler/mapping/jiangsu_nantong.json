@@ -1,0 +1,14 @@
+{
+    "资源名称": "title",
+    "创建时间": "publish_time",
+    "更新时间": "update_time",
+    "资源更新频率": "update_frequency",
+    "内容简介": "description",
+    "行业类型": "industry",
+    "提供机构": "department",
+    "主题分类": "category",
+    "联系方式": "telephone",
+    "是否向社会开放": "is_open",
+    "数据格式": "data_formats",
+    "详情页网址": "url"
+}

@@ -1,0 +1,9 @@
+{
+    "信息资源名称": "title",
+    "信息资源提供方": "department",
+    "是否向社会开放": "is_open",
+    "所属主题": "category",
+    "上传时间": "publish_time",
+    "数据格式": "data_formats",
+    "详情页网址": "url"
+}

@@ -1,0 +1,11 @@
+{
+    "标题": "title",
+    "发布日期": "publish_time",
+    "更新日期": "update_time",
+    "提供单位": "department",
+    "所属领域": "category",
+    "开放属性": "is_open",
+    "摘要信息": "description",
+    "更新频率": "update_frequency",
+    "数据格式": "data_formats"
+}
