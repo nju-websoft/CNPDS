@@ -8,7 +8,7 @@ Prompts for metadata consolidation, metadata enrichment, dataset reranking, and 
 
 ## Vue Frontend
 
-Github Repo: CN-PDS, based on Vue3 and [Tabler: An HTML Dashboard UI Kit built on Bootstrap](https://github.com/tabler/tabler).
+`./cnpds-frontend-vue`, based on Vue3 and [Tabler: An HTML Dashboard UI Kit built on Bootstrap](https://github.com/tabler/tabler).
 
 ### Deployment
 
@@ -44,7 +44,7 @@ docker push username/imagename:latest
 
 ### Java Backend
 
-Github Repo: cqsss/ChinaOpenDataPortal, based on Sprint Boot and Thymeleaf, with ability of acting as API server for other frontend service.
+`./cnpds-backend-java`, based on Sprint Boot and Thymeleaf, with ability of acting as API server for other frontend service.
 Default index path is `indices/current`.
 
 #### Usage
@@ -62,7 +62,7 @@ Environmet variables you may want to specify in `env.custom.sh`:
 
 ### Python Backend
 
-Github Repo: String10/ChinaOpenDataPortal-Backend-Flask, based on Flask, providing ability of communicating with Large Language Models and querying MySQL database.
+`./cnpds-backend-flask`, based on Flask, providing ability of communicating with Large Language Models and querying MySQL database.
 
 #### Usage
 
@@ -76,12 +76,10 @@ Environmet variables you may want to specify in `env.custom.sh`:
 
 ## Data Processor
 
-Github Repos:
-
-1. String10/ChinaOpenDataPortal-Metadata:
+1. `./cnpds-metadata`:
    Python scripts crawling metadata from each portals, multi-threads supported.
    Crawled metadata will be written to database for next step usage.
-2. String10/ChinaOpenDataPortal-IndexBuilder
+2. `./cnpds-index-builder`
 
 ### Metadata
 
