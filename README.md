@@ -4,7 +4,7 @@ This is source code and prompts for paper "CN-PDS: China’s Public Data Search 
 
 ## Prompts
 
-Prompts for metadata consolidation, metadata enrichment, dataset reranking, and relevance explanation are at `./promprs/`.
+Prompts for metadata consolidation, metadata enrichment, dataset reranking, and relevance explanation are at `./prompts/`.
 
 ## Vue Frontend
 
